@@ -119,6 +119,7 @@
       <receivers>
         <receiver>fms@oebb.at</receiver>
 		<receiver>fms@pv.oebb.at</receiver>
+	        <receiver>Michael.Hofer3@oebb.at</receiver>
       </receivers>
       <smtpServer>meinmail.a1.net</smtpServer>
       <smtpUser>dfue@oebb-pv.at</smtpUser>
